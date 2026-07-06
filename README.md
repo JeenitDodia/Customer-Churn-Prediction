@@ -1,4 +1,4 @@
-git clone https://github.com/yourusername/Customer-Churn-Prediction.git
+
 ### 2. Navigate to the project folder
 
 cd Customer-Churn-Prediction
